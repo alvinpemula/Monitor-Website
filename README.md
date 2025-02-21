@@ -15,7 +15,7 @@ pip install request tabulate
 # Install git
 pkg install git
 git clone https://github.com/alvinpemula/Monitor-Website
-cd
+cd Monitor-Website
 # Install dependensi yang dibutuhkan
 pip install requests
 
