@@ -1,7 +1,7 @@
 # CARA INSTALL DI TERMUX
 ````bash
 # Update dan upgrade Termux
-pkg update && pkg upgrade -y
+pkg update && pkg upgrade -y 
 
 # Install Python dan pip
 pkg install python -y
