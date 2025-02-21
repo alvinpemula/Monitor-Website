@@ -34,13 +34,15 @@ python Monitor-Website.py
 
 📡 Monitoring Server: https://example.com
 
-+----------------------+-----------------------------+
+
 | Status Code         | ✅ 200 (OK)                   |
 | Response Time       | ⏳ 250.75 ms                  |
 | Rata-rata Response  | 260.32 ms                     |
 | Total Request Aktif | 750                            |
-+----------------------+-----------------------------+
 
 📡 Status Server: 🔴 Server Bisa Down!
 
 🔍 **Analisis Keamanan:** 🚨 Serangan DDoS: HTTP Flood Detected!
+
+
+# ERROR HUBUNGI IG alvin_jelekkk
