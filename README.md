@@ -9,6 +9,9 @@ pkg install python -y
 # Cek versi Python (pastikan terinstal dengan benar)
 python --version
 
+# install dependensi tambahan
+pip install request tabulate
+
 # Install git
 pkg install git
 git clone https://github.com/alvinpemula/Monitor-Website
